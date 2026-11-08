@@ -1,0 +1,7 @@
+# redaction output
+Redacted/
+*_redacted*.pdf
+# python / mac junk
+__pycache__/
+*.pyc
+.DS_Store
